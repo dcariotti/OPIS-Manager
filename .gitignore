@@ -1,3 +1,5 @@
 scrapers/config.php
 opis-manager/src/assets/config.json
 docs/
+dist/
+node_modules/
